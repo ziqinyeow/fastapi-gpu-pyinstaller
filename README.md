@@ -2,7 +2,7 @@
 
 ### Background
 
-I am working on a pose estimation desktop application - [juxt.space](https://github.com/ziqinyeow/juxt.space). 
+I was working on a pose estimation desktop application - [juxt.space](https://github.com/ziqinyeow/juxt.space). 
 
 My tech stack are [React](https://react.dev/)/[Vite](https://vitejs.dev/) as frontend, [FastAPI](https://fastapi.tiangolo.com/) as backend, [Tauri](https://tauri.app/) with GitHub Actions to auto-publish Windows/Mac/Ubuntu executables on release created - [Tauri Action](https://github.com/tauri-apps/tauri-action).
 
