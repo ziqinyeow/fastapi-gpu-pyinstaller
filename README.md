@@ -83,12 +83,12 @@ Add these three lines to your `pyinstaller` command
 --add-binary="./onnxruntime_providers_shared.dll;./onnxruntime/capi/"
 ```
 
+OR you can find these three files in your local env: `envs\{env_name}\Lib\site-packages\onnxruntime\capi\*.dll`.
+
+Your FastAPI exe now supports GPU runtime without extra config.
+
 ### GitHub CI
 
 Refer to: [https://github.com/ziqinyeow/juxtapose/blob/main/.github/workflows/exe.yml](https://github.com/ziqinyeow/juxtapose/blob/main/.github/workflows/exe.yml)
-
-OR you can find these three files in your `envs\{env_name}\Lib\site-packages\onnxruntime\capi\*.dll`.
-
-Your FastAPI exe now supports GPU runtime without extra config.
 
 
