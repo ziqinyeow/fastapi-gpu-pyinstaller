@@ -4,7 +4,7 @@
 
 I am working on a pose estimation desktop application - [juxt.space](https://github.com/ziqinyeow/juxt.space). 
 
-My tech stack are [React](https://react.dev/)/[Vite](https://vitejs.dev/) as frontend, [FastAPI](https://fastapi.tiangolo.com/) as backend, [Tauri](https://tauri.app/) with GitHub Actions to auto-publish Windows/Mac/Ubuntu executables on release created.
+My tech stack are [React](https://react.dev/)/[Vite](https://vitejs.dev/) as frontend, [FastAPI](https://fastapi.tiangolo.com/) as backend, [Tauri](https://tauri.app/) with GitHub Actions to auto-publish Windows/Mac/Ubuntu executables on release created - [Tauri Action](https://github.com/tauri-apps/tauri-action).
 
 <img width="639" alt="CleanShot 2024-05-11 at 22 28 39@2x" src="https://github.com/ziqinyeow/fastapi-onnx-gpu-exe/assets/74515561/5e0ec5aa-ac42-43e6-bfc7-445b10ba8730">
 
